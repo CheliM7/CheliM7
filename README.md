@@ -31,6 +31,8 @@
 <details>
   <summary>⚡ My GitHub Stats</summary>
   <br/>
-  ### 🔥 Top Languages
+    
+  ### 🔥 Top Languages - Public Repositories
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheliM7&layout=compact&theme=radical)
 </details>
+
