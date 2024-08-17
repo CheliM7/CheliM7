@@ -4,7 +4,7 @@
 </p>
 
 
-- **🌻** I'm Chemini Mallikarachchi, a Computer Science and Engineering undergraduate specializing in Data science.
+**🌻** I'm Chemini Mallikarachchi, a Computer Science and Engineering undergraduate specializing in Data science.
 - **📧 E-mail:** chemini.21@cse.mrt.ac.lk
 - **🔗 Connect with me on:** [LinkedIn](https://www.linkedin.com/in/chemini-mallikarachchi/)
 
@@ -36,5 +36,7 @@
     
   ### 🔥 Top Languages - Public Repositories
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheliM7&layout=compact&theme=radical)
-</details>
 
+  ![Profile views](https://komarev.com/ghpvc/?username=CheliM7)
+
+</details>
